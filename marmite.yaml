@@ -33,6 +33,7 @@ menu:
   - archive.html
 extra:
   colorscheme: one
+  fediverse_verification: https://fosstodon.org/@zsinx6
 authors: {
   "zsinx6": {
     "name": "zsinx6",
