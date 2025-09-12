@@ -31,6 +31,8 @@ menu:
   - tags.html
 - - Archive
   - archive.html
+- - About
+  - about.html
 extra:
   colorscheme: one
   fediverse_verification: https://fosstodon.org/@zsinx6
