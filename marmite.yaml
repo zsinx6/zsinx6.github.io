@@ -35,6 +35,7 @@ menu:
   - about.html
 extra:
   colorscheme: one
+  colorscheme_toggle: true
   fediverse_verification: https://fosstodon.org/@zsinx6
 authors: {
   "zsinx6": {
